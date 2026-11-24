@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="brewing_coffee">
+  <title>Brewing Coffee with SmartBrew X1</title>
+  <shortdesc>Follow these steps to prepare a fresh cup of coffee safely.</shortdesc>
+  <taskbody>
+    <prereq>Ensure the machine is plugged in and the drip tray is properly positioned.</prereq>
+    <steps>
+      <step>
+        <cmd>Fill the water reservoir with fresh, cold water up to the MAX line.</cmd>
+      </step>
+      <step>
+        <cmd>Place a cup under the coffee spout and press the <strong>Brew</strong> button.</cmd>
+        <info>The indicator light blinks while heating and stays solid when brewing starts.</info>
+      </step>
+    </steps>
+    <result>Your coffee is ready to serve.</result>
+  </taskbody>
+</task>
